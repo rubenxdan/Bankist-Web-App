@@ -1,4 +1,4 @@
-# Bankist-Web-App
+# Bankist-App Web only!
 
 # Users to log in:
 
